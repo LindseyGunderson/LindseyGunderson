@@ -1,6 +1,6 @@
 <h1> Hi, I’m Lindsey Gunderson  👋 </h1>
 
-<p> I've always been interested in tech and gamer for most of my life. I stumbled across HTML/CSS and started to build static websites in my spare time. I've always been a curious person and if I didn't know how to make something, I would research and find a solution. That's when I decided to focus on programming as a career path. </p>
+<p> I've always been interested in tech and gaming for most of my life. I stumbled across HTML/CSS and started to build static websites in my spare time. I've always been a curious person and if I didn't know how to make something, I would research and find a solution. That's when I decided to focus on programming as a career path. </p>
 
 <p>🎓 
   - I have a dipolma in Computer and Information Systems which it focused on programming, databases and algorithms. After taking my first PHP class, I wanted to learn more about Web Development and use my creative side in Design. </p>
