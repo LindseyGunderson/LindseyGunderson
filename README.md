@@ -9,7 +9,7 @@
   - I am a recent graduate from the <a href="https://www.bcit.ca/programs/new-media-design-and-web-development-diploma-full-time-6525dipma/">BCIT New Media Design and Web Development</a> program which has been an asset to improve both my development and design skills. I'm currently looking for an opportunity as a Front End Developer and work towards becoming a Full-Stack Developer.</p>
 
 <br>
-<h2> 🖥️ Technologies</h2>
+<h2> ✨🖥️ Technologies  🖥️✨</h2>
 <p>
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?logo=Javascript&logoColor=F7DF1E&style=flat-square"/>
