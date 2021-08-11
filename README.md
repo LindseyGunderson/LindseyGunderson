@@ -7,8 +7,24 @@
 
 <p>🏆
   - I am a recent graduate from the <a href="https://www.bcit.ca/programs/new-media-design-and-web-development-diploma-full-time-6525dipma/">BCIT New Media Design and Web Development</a> program which has been an asset to improve both my development and design skills. I'm currently looking for an opportunity as a Front End Developer and work towards becoming a Full-Stack Developer.</p>
+  
+  
+  <h2> My Values </h2>
+  <p> 💪 Ambition & Resilience </p>
+  <p> ❤️ Authentic Expression </p>
+  <p> 💡 Continuous Learning  </p>
+  <p> 🙌 Teamwork & Communication  </p>
 
 <br>
+
+  <h2> My Hobbies </h2>
+  <p> ☕ Coffee Enthusiast </p>
+  <p> 🎮 Video Games </p>
+  <p> 🐶 Hiking with my dog </p>
+
+<br>
+
+
 <h2> ✨🖥️ Technologies  🖥️✨</h2>
 <p>
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square"/>
@@ -22,13 +38,6 @@
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square"/>
 
 </p>
-
-<h4>Currently Learning:</h4>
-<p>
-<img alt="MongDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat-square"/>
-</p>
-
 
 <br>
 <br>
