@@ -7,7 +7,7 @@
 
 <p>🏆
   - I am a recent graduate from the <a href="https://www.bcit.ca/programs/new-media-design-and-web-development-diploma-full-time-6525dipma/">BCIT New Media Design and Web Development</a> program which has been an asset to improve both my development and design skills. I'm currently looking for an opportunity as a Front End Developer and work towards becoming a Full-Stack Developer.</p>
-  
+  <br>
   
   <h2> My Values </h2>
   <p> 💪 Ambition & Resilience </p>
