@@ -1,4 +1,4 @@
-<h1> Hi, I’m Lindsey Gunderson  👋 </h1>
+<h1> Hi, I’m Lindsey  👋 </h1>
 
 <p> I've always been interested in tech and gaming for most of my life. I stumbled across HTML/CSS and started to build static websites in my spare time. I've always been a curious person and if I didn't know how to make something, I would research and find a solution. That's when I decided to focus on programming as a career path. </p>
 
