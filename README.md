@@ -11,7 +11,7 @@
   
   <h2> My Values </h2>
   <p> 💪 Ambition & Resilience </p>
-  <p> ❤️ Authenticity </p>
+  <p> 💕 Authenticity </p>
   <p> 💡 Continuous Learning  </p>
   <p> 🙌 Teamwork & Communication  </p>
 
