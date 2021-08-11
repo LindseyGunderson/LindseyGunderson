@@ -40,7 +40,7 @@
 </p>
 
 <br>
-<br>
+
 <h2>Let's Connect</h2>
 
 <a title="Lindsey's LinkedIn Profile"  href="https://www.linkedin.com/in/lindsey-gunderson/"> ![linkedin-icon](https://user-images.githubusercontent.com/65924727/126879955-47be281f-6ec4-4287-a362-550200f90810.png)&nbsp;&nbsp;</a> <a title="Lindsey's Personal Portfolio" href="https://lindseygunderson.ca/"> ![portfolio-icon](https://user-images.githubusercontent.com/65924727/126879964-b0aeddad-550b-4e65-9793-cb9c1059880a.png)&nbsp;&nbsp; </a> <a title="Lindsey's Email Contact" href="mailto:lindseyjgunderson@gmail.com">  ![email-icon](https://user-images.githubusercontent.com/65924727/126879969-09dfeda6-7430-49e8-9e3d-21ae01a261f1.png) </a>
