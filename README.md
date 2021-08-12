@@ -3,7 +3,7 @@
 <p> Tech and gaming have been my area of interest for most of my life. I stumbled across HTML/CSS and started to build static websites in my spare time. I've always been a curious person and if I didn't know how to make something, I would research and find a solution. That's when I decided to focus on Web Development as a career path. </p>
 
 <p>🎓 
-  - I have a dipolma in Computer and Information Systems which it focused on programming, databases and algorithms. After taking my first PHP class, I wanted to explore more in Web Development and use my creative side in Design. </p>
+  - I have a diploma in Computer and Information Systems which it focused on programming, databases and algorithms. After taking my first PHP class, I wanted to explore more in Web Development and use my creative side in Design. </p>
 
 <p>🏆
   - I am a recent graduate from the <a href="https://www.bcit.ca/programs/new-media-design-and-web-development-diploma-full-time-6525dipma/">BCIT New Media Design and Web Development</a> program which has been an asset to improve both my development and design skills. I'm currently looking for an opportunity as a Front End Developer and work towards becoming a Full-Stack Developer.</p>
