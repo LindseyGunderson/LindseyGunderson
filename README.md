@@ -1,15 +1,14 @@
-<h1> Hi, I’m Lindsey  👋 </h1>
+# Hi, I’m Lindsey  👋
+I am a Software Engineer with three years of hands-on experience in building responsive, high-performance web applications using modern JavaScript frameworks. I specialize in React and TypeScript, and I love incorporating innovative UI/UX designs into my work. With a strong eye for design, I strive to create intuitive, user-friendly experiences that balance functionality and aesthetics. Whether I am optimizing front-end architecture, crafting smooth user interactions, or writing scalable code, I enjoy blending creativity with problem-solving to deliver great results.
 
-<p> Tech and gaming have been my area of interest for most of my life. I stumbled across HTML/CSS and started to build static websites in my spare time. I've always been a curious person and if I didn't know how to make something, I would research and find a solution. That's when I decided to focus on Web Development as a career path. </p>
+<br> 
 
-<p>🎓 
-  - I have a diploma in Computer and Information Systems which it focused on programming, databases and algorithms. After taking my first PHP class, I wanted to explore more in Web Development and use my creative side in Design. </p>
+## 🌱 Current Learning Focus
+<p>💻 Machine Learning Fundamentals</p>
+<p>🎨 Advanced System Design Patterns</p>
+<br>
 
-<p>🏆
-  - I'm currently a junior software developer and growing my skillset everday.</p>
-  <br>
-  
-  <h2> My Values </h2>
+## My Values
   <p> 💪 Ambition & Resilience </p>
   <p> 💕 Authenticity </p>
   <p> 💡 Continuous Learning  </p>
@@ -17,36 +16,41 @@
 
 <br>
 
-  <h2> My Hobbies </h2>
-  <p> ☕ Coffee Enthusiast </p>
-  <p> 🎮 Video Games </p>
-  <p> 🐶 Hiking with my dog </p>
+## 🛠️ Technical Skills
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+### Backend
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Other
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)
 
 <br>
 
+## 📫 How to reach me
 
-<h2> ✨🖥️ Technologies  🖥️✨</h2>
-<p>
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?logo=Javascript&logoColor=F7DF1E&style=flat-square"/>
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square"/>
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square"/>
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square"/>
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=flat-square"/>
-<img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square"/>
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square"/>
+<a target="_blank" title="Linkedin Profile" href="https://www.linkedin.com/in/lindsey-gunderson/">LindkedIn</a> <br>
+<a target="_blank" title="Contact Email" href="mailto:lindseyjgunderson@gmail.com">Email</a> <br>
 
-</p>
-
-<br>
-
-<h2>Let's Connect</h2>
-
-<a title="Lindsey's LinkedIn Profile"  href="https://www.linkedin.com/in/lindsey-gunderson/"> ![linkedin-icon](https://user-images.githubusercontent.com/65924727/126879955-47be281f-6ec4-4287-a362-550200f90810.png)&nbsp;&nbsp;</a> <a title="Lindsey's Personal Portfolio" href="https://lindseygunderson.ca/"> ![portfolio-icon](https://user-images.githubusercontent.com/65924727/126879964-b0aeddad-550b-4e65-9793-cb9c1059880a.png)&nbsp;&nbsp; </a> <a title="Lindsey's Email Contact" href="mailto:lindseyjgunderson@gmail.com">  ![email-icon](https://user-images.githubusercontent.com/65924727/126879969-09dfeda6-7430-49e8-9e3d-21ae01a261f1.png) </a>
-
-
-  
 <!---
 LindseyGunderson/LindseyGunderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
