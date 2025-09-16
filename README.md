@@ -1,55 +1,87 @@
-# Hi, I’m Lindsey  👋
-I am a Software Engineer with three years of hands-on experience in building responsive, high-performance web applications using modern JavaScript frameworks. I specialize in React and TypeScript, and I love incorporating innovative UI/UX designs into my work. With a strong eye for design, I strive to create intuitive, user-friendly experiences that balance functionality and aesthetics. Whether I am optimizing front-end architecture, crafting smooth user interactions, or writing scalable code, I enjoy blending creativity with problem-solving to deliver great results.
 
-<br> 
+## 🌟 About Me
 
-## 🌱 Current Learning Focus
-<p>💻 Machine Learning Fundamentals</p>
-<p>🎨 Advanced System Design Patterns</p>
-<br>
+Hi there! 👋 I’m a software engineer with about three years of experience building web apps. I love creating projects that don’t just work well, but also feel great to use. With an eye for design, I focus on crafting clean, intuitive, and user-friendly experiences.
+<br><br>
 
-## My Values
-  <p> 💪 Ambition & Resilience </p>
-  <p> 💕 Authenticity </p>
-  <p> 💡 Continuous Learning  </p>
-  <p> 🙌 Teamwork & Communication  </p>
+## 🌱 What I'm Learning Next
 
-<br>
+### 🚀 Currently Exploring
+Currently, I'm exploring the **Next.js App Router** and all the exciting features it offers with server components. I'm also getting into **GraphQL** because I keep hearing amazing things about how it makes working with APIs so much cleaner.
+
+### 🎯 On My Learning List
+- **Three.js** - Want to add some 3D magic to web apps
+- **React Native** - Dive into mobile development
+- **Design Systems** - Building more consistent, scalable UI components
+
+### 💪 My Values
+- **Always curious** - There's always something new to learn in tech
+- **Keep it real** - Being authentic in everything I do
+- **Team player** - Love bouncing ideas off other people
+- **Growth mindset** - Mistakes are just learning opportunities in disguise
+
+<br><br>
 
 ## 🛠️ Technical Skills
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+<div align="left">
 
-### Backend
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### Frontend 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Other
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)
+### Styling & Design 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-<br>
+### Design Tools
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Creative Suite](https://img.shields.io/badge/-Adobe_Creative_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
-## 📫 How to reach me
+### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<a target="_blank" title="Linkedin Profile" href="https://www.linkedin.com/in/lindsey-gunderson/">LindkedIn</a> <br>
-<a target="_blank" title="Contact Email" href="mailto:lindseyjgunderson@gmail.com">Email</a> <br>
+### Tools & DevOps 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
+
+</div>
+
+<br><br>
+
+<div align="left">
+
+## 📫 Let's Connect!
+Always open to interesting conversations about tech, design, and building cool things!
+
+<a href="https://www.linkedin.com/in/lindsey-gunderson/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:lindseyjgunderson@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=LindseyGunderson&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
 
 <!---
 LindseyGunderson/LindseyGunderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
