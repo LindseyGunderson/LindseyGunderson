@@ -1,28 +1,59 @@
+# 👋 Hi, I'm Lindsey
 
-## 🌟 About Me
+I'm a frontend engineer who gets a little too excited about the details that make software feel good to use.
 
-Hi there! 👋 I’m a software engineer with about three years of experience building web apps. I love creating projects that don’t just work well, but also feel great to use. With an eye for design, I focus on crafting clean, intuitive, and user-friendly experiences.
+I love building things where clean code meets thoughtful design - whether that's a polished interface, a reusable component library, or an AI-powered tool that saves someone a little time and frustration.
+
+I care about accessibility because great products shouldn't only work for the people who build them. They should work for the people using them too.
+
+My favourite projects usually sit somewhere between engineering and design: solving real problems, creating better experiences, and making the web a little nicer to interact with.
+
 <br><br>
+## 🚀 What I'm building
+### PrepAI (In progress)
+Interview prep can be a bit of a mess.
 
-## 🌱 What I'm Learning Next
+You have a job description open in one tab, random practice questions in another, and somehow still end up wondering: "Am I actually preparing for this role?"
 
-### 🚀 Currently Exploring
-Currently, I'm exploring the **Next.js App Router** and all the exciting features it offers with server components. I'm also getting into **GraphQL** because I keep hearing amazing things about how it makes working with APIs so much cleaner.
+I built PrepAI to make that process a little less chaotic. It takes a job posting, creates tailored interview questions, lets you record your answers, and provides feedback to help you improve.
 
-### 🎯 On My Learning List
-- **Three.js** - Want to add some 3D magic to web apps
-- **React Native** - Dive into mobile development
-- **Design Systems** - Building more consistent, scalable UI components
+Basically: less guessing, more practicing.
 
-### 💪 My Values
-- **Always curious** - There's always something new to learn in tech
-- **Keep it real** - Being authentic in everything I do
-- **Team player** - Love bouncing ideas off other people
-- **Growth mindset** - Mistakes are just learning opportunities in disguise
+Built with: React • Tailwind CSS • AI APIs
+
+<hr />
+
+### Atoria UI (In progress)
+I've always enjoyed the parts of frontend work where engineering and design overlap - which naturally led me down the design system rabbit hole.
+
+Atoria UI is my playground for exploring how thoughtful components, documentation, and design tokens can make building interfaces easier and more consistent.
+
+The goal: create components I'd actually want to use myself.
+
+Built with: React • TypeScript • Tailwind CSS • Storybook
+
+<br><br>
+## 🌱 Currently Exploring
+- React patterns that make applications easier to scale
+- TypeScript for safer, more maintainable code
+- Design systems and component architecture
+- AI features that solve actual problems (not just because AI is trendy)
+- Building better developer experiences
+
+<br><br>
+## 🎯 Why I Build
+I've seen products that were technically impressive but frustrating to use.
+
+I've also seen beautiful designs that become difficult to maintain once they meet real-world constraints.
+
+The work I enjoy most lives in that middle ground - where engineering supports design, accessibility is part of the process, and small details make a big difference.
 
 <br><br>
 
 ## 🛠️ Technical Skills
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LindseyGunderson&layout=compact&langs_count=6&theme=nightowl)](https://github-stats-extended.vercel.app/api/top-langs?username=LindseyGunderson&layout=compact&langs_count=6&theme=nightowl)
+
 
 <div align="left">
 
@@ -66,8 +97,13 @@ Currently, I'm exploring the **Next.js App Router** and all the exciting feature
 
 <div align="left">
 
-## 📫 Let's Connect!
-Always open to interesting conversations about tech, design, and building cool things!
+## ☕ Let's Connect
+
+I'm always curious about how other people approach frontend problems, design systems, and building better experiences.
+
+If you're experimenting with new ideas, building something interesting, or want to talk shop, I'd love to hear from you.
+
+Thanks for stopping by my little corner of GitHub.
 
 <a href="https://www.linkedin.com/in/lindsey-gunderson/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
