@@ -1,53 +1,25 @@
 # 👋 Hi, I'm Lindsey
 
-I'm a frontend engineer who gets a little too excited about the details that make software feel good to use.
+I'm a software engineer who likes building things for the web and gets a little too excited about the details.
 
-I love building things where clean code meets thoughtful design - whether that's a polished interface, a reusable component library, or an AI-powered tool that saves someone a little time and frustration.
+I've always liked both sides of the equation:
 
-I care about accessibility because great products shouldn't only work for the people who build them. They should work for the people using them too.
+<ul>
+  <li>
+    Figuring out how things work and figuring out how they should feel. 
+  </li>
+</ul>
 
-My favourite projects usually sit somewhere between engineering and design: solving real problems, creating better experiences, and making the web a little nicer to interact with.
+<br>
 
-<br><br>
-## 🚀 What I'm building
-### PrepAI (In progress)
-Interview prep can be a bit of a mess.
+That's probably why I keep ending up somewhere between engineering and design.  I like making useful things, learning by building, and occasionally starting a project because I had a random idea I couldn't stop thinking about it.
 
-You have a job description open in one tab, random practice questions in another, and somehow still end up wondering: "Am I actually preparing for this role?"
+I also care about the accessibility of interfaces. The people using the thing matter just as much as the code behind it.
 
-I built PrepAI to make that process a little less chaotic. It takes a job posting, creates tailored interview questions, lets you record your answers, and provides feedback to help you improve.
 
-Basically: less guessing, more practicing.
+## Beyond the keyboard
 
-Built with: React • Tailwind CSS • AI APIs
-
-<hr />
-
-### Atoria UI (In progress)
-I've always enjoyed the parts of frontend work where engineering and design overlap - which naturally led me down the design system rabbit hole.
-
-Atoria UI is my playground for exploring how thoughtful components, documentation, and design tokens can make building interfaces easier and more consistent.
-
-The goal: create components I'd actually want to use myself.
-
-Built with: React • TypeScript • Tailwind CSS • Storybook
-
-<br><br>
-## 🌱 Currently Exploring
-- React patterns that make applications easier to scale
-- TypeScript for safer, more maintainable code
-- Design systems and component architecture
-- AI features that solve actual problems (not just because AI is trendy)
-- Building better developer experiences
-
-<br><br>
-## 🎯 Why I Build
-I've seen products that were technically impressive but frustrating to use.
-
-I've also seen beautiful designs that become difficult to maintain once they meet real-world constraints.
-
-The work I enjoy most lives in that middle ground - where engineering supports design, accessibility is part of the process, and small details make a big difference.
-
+☕ Coffee · 🥾 Hiking · 🎮 Games · 📚 Fictional worlds I probably spend too much time in
 <br><br>
 
 ## 🛠️ Technical Skills
@@ -97,13 +69,7 @@ The work I enjoy most lives in that middle ground - where engineering supports d
 
 <div align="left">
 
-## ☕ Let's Connect
-
-I'm always curious about how other people approach frontend problems, design systems, and building better experiences.
-
-If you're experimenting with new ideas, building something interesting, or want to talk shop, I'd love to hear from you.
-
-Thanks for stopping by my little corner of GitHub.
+## Let's Connect
 
 <a href="https://www.linkedin.com/in/lindsey-gunderson/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
